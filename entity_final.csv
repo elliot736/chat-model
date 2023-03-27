@@ -1,0 +1,701 @@
+prompt,entity,entity_id
+"example:my laptop's battery has been draining quickly over the past few days and now a message pops up on the screen saying ""battery error"". i have tried restarting the laptop, but the problem persists.",battery,0
+my laptop's battery is no longer charging and a battery error message is displaying on the screen.,battery,0
+"my laptop has been displaying an error message indicating that the battery is no longer able to hold a charge. i have tried replacing the battery, but the error message persists.",battery,0
+my laptop is showing an error message that my battery needs to be replaced even though it is still working.,battery,0
+"my laptop's battery will not charge past 50%, even when it is plugged in and i get an error message that says ""low battery - please plug in your laptop to continue using it.""",battery,0
+"my laptop will no longer charge and an error message appears saying ""battery error: replace battery"".",battery,0
+my laptop battery won't charge beyond a certain percentage and i'm getting a battery error message.,battery,0
+my laptop is not holding a charge and is displaying a battery error message.,battery,0
+"my laptop battery will not charge and is displaying an error message that says ""battery cannot be charged.""",battery,0
+"my laptop won't hold a charge and i get a ""battery error"" message when i try to turn it on.",battery,0
+"i am getting an error message on my laptop saying ""battery not detected"". i have replaced the battery, but the same error message is still being displayed.",battery,0
+"my laptop is showing a ""battery error"" message and not charging my battery.",battery,0
+"i'm getting a ""battery not charging"" error on my laptop. it's been plugged in for a couple of hours, but the battery percentage hasn't increased.",battery,0
+"example problem: my laptop's battery is not holding a charge, and i'm getting an error message when i try to update my laptop's drivers.",battery,0
+"my laptop's battery is displaying an error message saying it needs to be serviced, even though it is relatively new.",battery,0
+"my laptop is not holding a charge and its battery status says ""error.""",battery,0
+"my laptop battery has been displaying an error message that reads ""low battery"" even when the battery is fully charged.",battery,0
+"my laptop shuts down suddenly without warning, even when it's plugged in, and i'm getting a battery error message.",battery,0
+"example problem: my laptop is giving me an error message every time i try to charge the battery, saying that the battery is not charging properly.",battery,0
+"my laptop's battery isn't charging, and i'm getting an error message saying ""battery/power config error"".",battery,0
+"i am getting an error message on my laptop that says ""the battery is not charging. please restart your computer and try again.""",battery,0
+my laptop battery drains very quickly and gives an error message when trying to recharge.,battery,0
+my laptop battery is showing an error message that says 'battery cannot be identified'.,battery,0
+"my laptop battery is not charging and i'm getting an error message saying ""battery not detected"".",battery,0
+"my laptop won't turn on and the error message says ""battery is low.""",battery,0
+"my laptop is showing a ""battery not charging"" error when i plug it into a power outlet.",battery,0
+"my laptop won't stay charged for more than an hour, and i'm seeing an error message related to the battery.",battery,0
+"my laptop's battery is not charging, even when i plug it in and leave it for hours. the error message i get is ""battery not detected.""",battery,0
+"my laptop's battery is not charging and the error message i'm receiving says ""battery not compatible"".",battery,0
+"my laptop's battery will not charge and the error message displayed says ""battery error - replace battery"".",battery,0
+"example of a laptop battery error problem: my laptop's battery only lasts for a few minutes before it needs to be recharged, and sometimes when i try to turn it on after it has been unplugged, i get an error message saying ""invalid battery error"".",battery,0
+my laptop's battery won't charge and keeps displaying an error message.,battery,0
+"my laptop battery will not charge and a message saying ""battery error"" is displayed on the screen.",battery,0
+"my laptop’s battery won't charge, and it keeps showing an error message that states “battery not charging.""",battery,0
+my laptop won’t charge even when it’s plugged in and i get an error message saying “battery not detected.”,battery,0
+my laptop is displaying a 'battery error' message even though the battery is fully charged.,battery,0
+"example problem: i keep getting a ""low battery error"" message when i try to turn on my laptop. the laptop battery is charged, but won't power up the laptop.",battery,0
+"my laptop is reporting battery errors, even though the battery is fully charged. i tried restarting my laptop and replacing the battery, but the same error keeps appearing.",battery,0
+"i keep getting an error message on my laptop saying ""battery not charging"" even when the ac adapter is plugged in.",battery,0
+my laptop battery drains quickly even when i'm not using it. i also get a battery error message when i try to charge it.,battery,0
+"i am getting an error message when i start up my laptop that says ""battery not detected"".",battery,0
+my laptop's battery drains quickly even after i charge it to full capacity.,battery,0
+"my laptop is not charging and it is displaying a ""battery error"" message when i try to plug the charger in.",battery,0
+"my laptop's battery will quickly drain even when it is plugged in, and it will not charge back up. i keep getting an error that says ""ac power adapter type cannot be determined"" and i am not sure how to fix it.",battery,0
+my laptop's battery won't hold a charge and is displaying an error message that says the battery needs to be replaced.,battery,0
+"example problem: my laptop's battery won't charge and won't stay charged, and i'm receiving an error message about the battery.",battery,0
+"example problem: my laptop's battery runs out after only 30 minutes of use, even when plugged in.",battery,0
+"my laptop's battery is no longer holding a charge, even after i've changed my power settings and performed a battery reset.",battery,0
+my laptop battery is not holding a charge and the battery error icon keeps popping up.,battery,0
+"problem: my laptop's battery is not being detected, and the laptop won't turn on even when it is plugged in.",battery,0
+"i am getting an error on my laptop saying ""battery not charging"" even when it is plugged in and the light on the charger is on.",battery,0
+"my laptop's battery is not charging and i get an error message that says ""battery is not charging"".",battery,0
+example problem: my laptop battery is not charging properly and it displays an error message whenever i try to charge it.,battery,0
+" messagei receive an error message on my laptop that the battery is not charging and the battery status says 'plugged in, not charging'.",battery,0
+i recently purchased a new laptop but the battery will not charge. i keep getting an error message when i try to charge it.,battery,0
+"my laptop battery is no longer holding a charge, even after i leave it plugged in for extended periods of time.",battery,0
+example problem: my laptop battery is not charging and i am getting an error message about low battery capacity.,battery,0
+"i recently purchased a new laptop, but when i turned it on, i got an error message that said ""laptop battery failed to charge.""",battery,0
+"my laptop's battery isn't working properly. when plugged in, the laptop shuts down unexpectedly and won't turn back on unless it's unplugged.",battery,0
+"my laptop's battery is not charging and when i try to charge it, an error message appears stating that the battery is not compatible or not detected.",battery,0
+"my laptop's battery will not charge and i get an error message that says ""unable to charge battery.""",battery,0
+my laptop battery won't charge and an error message appears every time i plug it in.,battery,0
+"my laptop battery will not charge and is displaying a ""battery error"" message.",battery,0
+"my laptop's battery isn't charging and the laptop keeps displaying an error message that reads: ""the battery has experienced permanent failure and must be replaced.""",battery,0
+"my laptop suddenly shut off and displays a message saying ""battery error: recharge your battery"".",battery,0
+"my laptop is giving an error message when i try to charge the battery, indicating that the battery is not properly connected to the power source.",battery,0
+"my laptop is not holding a charge and is showing a ""battery error"" message.",battery,0
+"my laptop's battery indicator says it is completely charged, but my computer will shut down after only 20 minutes of use.",battery,0
+my laptop is displaying an error message stating that the battery is not charging and needs to be replaced.,battery,0
+"my laptop is showing an error message that says ""battery not detected.""",battery,0
+"my laptop's battery isn't charging and the error message i get is ""battery not compatible"".",battery,0
+my laptop is not holding a charge and displays an error message when i plug it in.,battery,0
+"my laptop battery will not charge and i get an error message saying ""battery unreachable"".",battery,0
+my laptop battery is not charging and the error message 'replace battery' appears on the screen.,battery,0
+"my laptop won't turn on and i'm getting an error message that says ""battery not detected"".",battery,0
+"i recently purchased a new laptop, but after a few weeks i started getting an error message that the battery had a problem and needed to be replaced.",battery,0
+"my laptop won't turn on and the battery icon is flashing red, indicating a battery error.",battery,0
+my laptop battery is showing an error that it is not charging and the laptop is not turning on.,battery,0
+"my laptop's battery won't hold a charge and i'm getting an error message that says ""battery not detected.""",battery,0
+my laptop's battery is not charging and the error message i'm receiving says 'battery not detected'.,battery,0
+"my laptop's battery is not charging, even when the charger is connected.",battery,0
+"my laptop's battery stopped charging after only a few minutes of use. the battery icon in the system tray shows an error message, indicating a problem with the battery.",battery,0
+my laptop's battery is not charging correctly and i get an error message when i try to charge it.,battery,0
+"example problem: my laptop battery won't charge and shows an error message saying ""plugged in, not charging"".",battery,0
+my laptop battery is not charging and i get an error message when i try to plug it in.,battery,0
+"my laptop won't turn on even after i've charged the battery. i'm getting a ""battery error"" message on the screen.",battery,0
+"my laptop's battery is not charging and i am receiving an ""error code 43"" message.",battery,0
+"example problem: my laptop won't stay on for more than 5 minutes without the power cable plugged in. every time i unplug the power cable, i get an error message saying ""battery not detected - please plug in a power source.""",battery,0
+"my laptop's battery won't charge when i plug in the charger, and i get a 'battery error' message on the screen.",battery,0
+"my laptop's battery will not charge past 60%, and it is showing an error message that says ""the battery is not compatible with this computer"".",battery,0
+my laptop's battery is not charging properly. the charging icon stays stuck at 25% and the laptop shuts off when unplugged.,battery,0
+"my laptop won't turn on and an error code ""battery not detected"" is displayed on the screen.",battery,0
+my laptop battery is not charging properly and shows an error message on the screen.,battery,0
+"when i try to turn on my laptop, it shows an error message that my battery is not detected.",battery,0
+my laptop's battery is not charging even when the charger is plugged in and the battery icon in the taskbar shows a battery error.,battery,0
+"i am getting a laptop battery error message that says my battery is not charging. i have tried replacing the battery, but i still get the same error message.",battery,0
+my laptop battery will not charge beyond 50% and it will not hold a charge for more than an hour.,battery,0
+my laptop is displaying an error message that the battery is not charging correctly. i have checked the power settings and the power cable and nothing seems to be helping.,battery,0
+my laptop is not showing any battery levels and it's displaying a battery error message.,battery,0
+"my laptop battery is showing an error message that states ""battery not recognized"" even though it is fully charged.",battery,0
+my printer is displaying an error message that says 'printer is not connected' even though it is connected to my computer.,printer,1
+"my printer is not responding when i try to print. the error message i am receiving is ""printer is not responding"".",printer,1
+"my printer is not printing the colors correctly. every time i go to print a document, the colors come out faded and are not accurate to the image on my computer screen.",printer,1
+"i'm trying to print a document but i keep getting an error message that reads ""print spooler is not running on this computer"".",printer,1
+"i am receiving an error message when attempting to print from my printer. the message reads ""printer not responding"".",printer,1
+"i am getting an ""out of paper"" error when i try to print from my printer.",printer,1
+"my printer is displaying an error message ""ink cartridge not installed correctly"" when i try to print.",printer,1
+"my printer is displaying a ""printer error"" message, and i am unable to print.",printer,1
+"my printer displays an ""out of paper"" error, even though i have paper loaded in the tray.",printer,1
+"i am trying to print a document, but my printer is displaying an error message that says ""paper jam"".",printer,1
+my printer keeps displaying an error message on the screen indicating that there is a paper jam.,printer,1
+"i am having an issue with my printer not printing correctly. when i try to print a document, it prints a blank page or prints only part of the document.",printer,1
+"problem: printer is not printing properly.cause: poor connection between printer and computer, low quality of ink, or printer needs to be reset.",printer,1
+my printer is displaying an error message saying it is out of paper even though i have loaded paper into the tray.,printer,1
+"my printer is not printing any documents i try to print. when i press the print button, i receive an error message saying ""printer error"".",printer,1
+i'm getting a 'printer is offline' error every time i try to print.,printer,1
+"example problem: i'm trying to print a document, but my printer keeps displaying an error message that says ""ink cartridge is empty"".",printer,1
+"my printer is displaying an error message that says ""printer jam. please clear paper jam and try again.""",printer,1
+"i am getting a ""printer offline"" error when trying to print from my computer.",printer,1
+"my printer is displaying an error message stating, ""printer is not connected.""",printer,1
+my printer is displaying an error message when i try to print a document.,printer,1
+"i am unable to print documents from my computer when connected to my printer. i keep getting a ""printer error"" message.",printer,1
+"my printer is showing an error message that the paper tray is empty, even though i just loaded it with new paper.",printer,1
+my printer won't print documents correctly. the printouts have words and images that are distorted or missing.,printer,1
+"i am having difficulty printing documents from my computer. whenever i attempt to send a document to the printer, an error message stating that the document cannot be printed appears on my screen.",printer,1
+"the printer is displaying an error message that reads ""printer out of paper.""",printer,1
+my printer is displaying an 'out of paper' error message even though there is paper in the tray.,printer,1
+"i am getting an error message when i try to print from my computer. the error message says, ""printer not responding.""",printer,1
+the printer does not turn on when i press the power button.,printer,1
+i am receiving an error message when i try to print a document from my computer. the error message states that the printer is not connected or that the printer is not responding.,printer,1
+"the printer is displaying an error message saying ""printer jammed"" and is not printing documents.",printer,1
+"example problem: i am trying to print out a document, but an error message appears stating that the printer is not connected or an incorrect driver is selected.",printer,1
+"my printer is showing an error message of ""printer is not connected"" even though it is connected to my computer.",printer,1
+"example problem: my printer is displaying an error message every time i try to print a document. it says ""error: printer not responding.""",printer,1
+my printer is displaying an error message stating that the printer is not connected to the computer even though it is securely connected.,printer,1
+example problem: the printer is not printing correctly and i am getting an error message when i try to print.,printer,1
+"my printer won't print documents and instead gives me an error message saying ""error: printer not connected.""",printer,1
+"when i try to print a document, i keep receiving an error message that reads ""printer is not connected to the network.""",printer,1
+i am receiving a 'paper jam' error message when i try to print from my printer.,printer,1
+"my printer is displaying an error message that says ""ink cartridge error."" it won't print any pages and i'm not sure what to do.",printer,1
+"i am having an issue with my printer. whenever i try to print something, i get an error message saying ""printer is not connected"".",printer,1
+"my printer isn't printing correctly, and when i try to print documents, i get an error message saying the printer is having trouble communicating with the computer.",printer,1
+"the printer is displaying an 'out of paper' error message, even though there is paper loaded in the tray.",printer,1
+"i have been trying to print a document, but when i send it to the printer, i get an error message saying ""printer is unable to process request"".",printer,1
+the printer is showing an 'ink cartridge empty' error when i try to print.,printer,1
+i am receiving an error message when i try to print from my computer that says 'printer not responding'.,printer,1
+"my printer is displaying an error message saying ""paper jam"", and i cannot figure out how to fix the issue.",printer,1
+"i am getting a recurring error message when i try to print my document that says ""printer is not connected.""",printer,1
+" messageswhen i try to print a document, my printer displays an error message saying ""paper jam"".",printer,1
+"i am getting an error message when i try to print a document. the message says ""error connecting to printer.""",printer,1
+"my printer is displaying a ""paper jam"" error message and i am unable to print any documents.",printer,1
+"i am trying to print an important document, but every time i attempt to print, i get an error message saying that the printer is not connected to my computer.",printer,1
+"example:my printer is displaying a 'paper jam' error message, but there is no paper jammed in the printer.",printer,1
+my printer is displaying an error message and won't print any documents.,printer,1
+"my printer is connected to my computer but when i try to print a document, i am getting an error message saying “printer not responding”.",printer,1
+my printer is displaying an error message that it is unable to connect to the wireless network.,printer,1
+"my printer is displaying an ""out of paper"" error when i attempt to print, even though there is paper in the tray.",printer,1
+"example problem: my printer is not printing documents correctly. the printouts come out distorted, with text and images blurred or misaligned.",printer,1
+"my printer is showing an error message saying ""paper jam"" and won't print any documents.",printer,1
+"my printer is displaying an error message that says ""ink cartridge not installed correctly.""",printer,1
+"my printer won't print my document. when i try to print, a message pops up saying 'printer not connected'.",printer,1
+"my printer is displaying an error message that reads ""printer not responding.""",printer,1
+"my printer turns on but does not print anything, and when i try to print something i get an error message saying ""printer is not responding"".",printer,1
+"i am getting an error message when i try to print a document from my computer, which says ""printer is not connected.""",printer,1
+"my printer is displaying a ""paper jam"" error message, but i can't find any jammed paper in the printer.",printer,1
+"my printer isn't printing correctly, and my documents are coming out with errors in the text.",printer,1
+"i am receiving an error message that reads ""printer is not connected"" when i try to print a document from my computer.",printer,1
+"my printer is showing an error message that says ""paper jam error"". i have checked the paper tray and there is no jammed paper, but the printer still won't print.",printer,1
+the printer is displaying an error message when i try to print a document.,printer,1
+"my printer is displaying an error message saying ""paper jam"". i can see there is no paper stuck in the printer, but the error message is still there.",printer,1
+"my printer is displaying an error message that says ""printer is not responding,"" and i am unable to print any documents.",printer,1
+"my printer is displaying a ""paper jam"" error message and won't print.",printer,1
+"my printer won't print documents from my computer, and i'm receiving an error code whenever i try to print.",printer,1
+"my printer is displaying an error message that says ""incorrect paper type"".",printer,1
+"i am receiving an error message when trying to print a document from my computer. the message says ""printer is not responding.""",printer,1
+"my printer is displaying an error message saying ""paper jam"" and is not printing any documents.",printer,1
+"my printer is displaying an error message stating that my printer is out of paper, even though i have plenty of paper loaded.",printer,1
+"my printer is giving me a ""printer not responding"" error whenever i try to print a document.",printer,1
+"every time i try to print something, i get an error message saying 'printer is not connected'.",printer,1
+"my printer is displaying an error message saying ""printer jammed"". i have checked that there are no paper jams but the error message is still there.",printer,1
+"my printer is displaying an error code, and i am unable to print anything.",printer,1
+"my printer is not responding when i try to print a document, and i am getting an error message that reads ""printer error"".",printer,1
+"my printer is displaying an error message saying ""printer offline"".",printer,1
+"i have a problem with my printer not printing correctly. i can see the print job in the print queue, but when the printer is done, the paper is blank.",printer,1
+"my printer is showing an error message that says ""paper jam,"" even after i have cleared all the paper from the tray.",printer,1
+"my printer is displaying an ""out of paper"" error, even though i have loaded paper into the paper tray.",printer,1
+"my printer is displaying an error message that reads ""printer not connected"".",printer,1
+" messagei am trying to print a document but after sending it to the printer, an error message appears saying ""printer is not connected"".",printer,1
+"my printer keeps throwing an error saying ""paper jam. please clear the jam and try again.""",printer,1
+"my printer keeps displaying an error message saying ""paper jam - clear paper jam and press ok"".",printer,1
+"my printer is displaying an error message that says ""out of paper"". i have replaced the paper and checked to make sure it is properly loaded, but the printer is still displaying the same error message.",printer,1
+i am receiving an 'ink cartridge error' message when i try to print a document.,printer,1
+"the printer is displaying an 'ink cartridge error' message, even though i have installed compatible ink cartridges.",printer,1
+"i am trying to print a document, but my printer keeps displaying an error message saying that there is a paper jam in the printer.",printer,1
+my printer is not printing any documents correctly. the documents come out blurry and the colors are off.,printer,1
+i keep getting a 'paper jam' error message when i try to print a document.,printer,1
+"problem: printer is displaying an error message that says ""printer cartridge not recognized"" and will not print.",printer,1
+"my printer is giving me an ""out of paper"" error, even though there's still paper in the tray.",printer,1
+my printer is displaying an error message when i try to print a document.,printer,1
+my printer keeps displaying an error message when i try to print my document.,printer,1
+my wifi connection is showing an error message when i try to connect to the internet.,wifi,2
+"i'm trying to connect my laptop to the wifi but i'm getting an error message that says ""unable to join network"".",wifi,2
+"my wifi connection keeps getting an error that says, ""no internet connection"" even when my device is connected to the wifi.",wifi,2
+"my wifi connection keeps randomly dropping or displaying an error message, making it difficult to stay connected.",wifi,2
+".the wifi in my home isn't connecting to the internet. i've tried resetting the router and modem, but it still won't work.",wifi,2
+i am getting an error message when i try to connect to the wifi network in my home.,wifi,2
+"i'm getting an ""error 651"" when i try to connect to my wifi network.",wifi,2
+":my wifi keeps disconnecting and reconnecting. each time it disconnects, it takes several minutes to reconnect and i have to enter my password again. this is very frustrating and i cannot get any work done.",wifi,2
+i am unable to connect to my home wifi network. my laptop shows the wifi error “connection timed out”.,wifi,2
+"i'm having trouble connecting to my home wifi. my laptop says i'm connected, but i can't access the internet.",wifi,2
+"my wifi connection will not stay stable and often disconnects, leading to error messages.",wifi,2
+"i'm having trouble connecting to the wifi. my computer keeps displaying an error message saying ""unable to connect to the network.""",wifi,2
+"i am having difficulty connecting my device to my home wifi network. it keeps displaying an error message that states, ""unable to connect to network.""",wifi,2
+"i am having difficulty connecting to the wifi even though i enter the correct password. i keep getting an error message that says ""authentication failed"".",wifi,2
+example problem: my wifi connection keeps dropping and i get an error message when i try to reconnect.,wifi,2
+"my wifi connection keeps dropping and showing an error message saying ""no internet access"".",wifi,2
+i am getting a wifi error on my phone that prevents me from connecting to my home network.,wifi,2
+i can't connect to the wifi at home and keep getting an error message.,wifi,2
+my wifi network is frequently dropping the connection and displaying an error message.,wifi,2
+"i am unable to connect my device to my home wifi network. i keep getting an error that says ""connection timed out.""",wifi,2
+"my wifi connection keeps dropping and i'm getting an error message saying ""unable to connect to network.""",wifi,2
+"i am having trouble connecting to my home wifi network. whenever i try to connect, i get an error message saying, ""unable to join the network"".",wifi,2
+i have a problem with my wifi connection dropping randomly. i troubleshooted the issue but nothing seems to help.,wifi,2
+my laptop won't connect to my home wifi. i see an error message indicating there's a problem with the wifi connection.,wifi,2
+"i am having trouble connecting to my wifi network. every time i try to connect an error message pops up saying ""unable to connect to network"".",wifi,2
+"i am unable to connect to my wifi network. i keep getting an error message that says ""connection failed"" when i try to connect.",wifi,2
+i can't connect to the wifi network i'm trying to access. i keep getting an error message saying the connection cannot be established.,wifi,2
+"my laptop won't connect to my home wifi network, even though other devices in the house are connected.",wifi,2
+"my internet connection is working, but my wifi will not connect to my home wifi network. every time i try to connect, i get an error message stating ""authentication error"" and the connection is unsuccessful.",wifi,2
+"i am getting an error message that says ""authentication failed"" when i try to connect to my home wifi network.",wifi,2
+i'm having trouble connecting to my home wifi network. the error message i am receiving indicates an issue with the network settings.,wifi,2
+"example problem: i am trying to connect to my home wifi, but i keep getting an error message saying ‘unable to join the network’.",wifi,2
+"i'm having difficulty connecting to my home wifi network. every time i try to connect, i get an error message saying the connection failed.",wifi,2
+"my wifi has been constantly displaying an error message for the past few days, saying that it is unable to connect to the internet.",wifi,2
+"my wifi connection keeps dropping and i get an error message that says ""unable to connect to internet.""",wifi,2
+my wifi connection keeps dropping and i am getting error messages about losing connection to the network.,wifi,2
+"i'm getting an ""unable to connect"" error when trying to connect to my home wifi network.",wifi,2
+"i am unable to connect my laptop to my home wifi network. i receive an error message that states ""connection failed"".",wifi,2
+"i'm having an issue connecting to the wifi. my computer says it's connected, but i'm unable to access the internet.",wifi,2
+"i am having trouble connecting to my wifi network. the error message i am receiving is ""signal not found"" and i am unable to access the internet.",wifi,2
+"i am unable to connect to my wifi network, even though i have entered the correct password.",wifi,2
+"example problem: my wifi connection is dropping intermittently and i'm getting a ""tcp connection reset"" error.",wifi,2
+i am having difficulty connecting to my home wifi network. i get an error message that says the connection was lost.,wifi,2
+i am receiving an error message when i try to connect to the wifi network in my home.,wifi,2
+"example problem : my wifi connection keeps dropping and i am getting a ""connection failed"" error message.",wifi,2
+"my wifi connection keeps dropping and reconnecting, even though my signal strength is strong.",wifi,2
+"i'm having difficulty connecting to my wifi network. i am receiving an error message that says ""connection error.""",wifi,2
+i am unable to connect to my wifi network and i am getting a 'timeout' error.,wifi,2
+"my laptop won't connect to my home wifi network, even though all my other devices are working fine.",wifi,2
+"my laptop is connected to my wifi network but i cannot access the internet. i am getting a ""wifi error"" message.",wifi,2
+"my computer monitor is displaying a ""no signal"" error when i turn it on.",monitor,3
+"i keep getting an error message on my monitor that says, ""input signal out of range. try decreasing resolution or refresh rate.""",monitor,3
+my monitor is displaying a 'no signal' error message when i turn it on.,monitor,3
+"my monitor is displaying a ""no signal"" error message and i can't see anything on the screen.",monitor,3
+"my computer monitor is displaying a flickering green screen, and nothing else.",monitor,3
+my monitor keeps displaying a 'no signal' error whenever i try to turn it on.,monitor,3
+my computer monitor is displaying an 'out of range' error message when i try to turn it on.,monitor,3
+"my computer monitor will not turn on and keeps displaying a ""no signal"" error message.",monitor,3
+"my monitor is displaying a ""no signal"" error, even though i have connected the computer to the monitor and the monitor is powered on.",monitor,3
+" codesmy monitor is displaying an error code of e4, which indicates an issue with the display controller.",monitor,3
+".my monitor has a faint, flickering image on the screen that won't go away no matter what i do.",monitor,3
+"my computer's monitor will not turn on and i get an error message saying ""no signal detected"".",monitor,3
+"my monitor is displaying a ""no signal"" error message when i turn on my computer.",monitor,3
+"my monitor is displaying an error message that reads ""no signal detected.""",monitor,3
+"example problem: my monitor is displaying the ""no signal"" error message and i'm unable to view anything on my screen.",monitor,3
+" messagesmy monitor is displaying an error message that says ""no signal detected.""",monitor,3
+"my computer's monitor is displaying a ""no signal"" error.",monitor,3
+"my monitor displays an ""out of range"" error when i turn it on.",monitor,3
+"my computer's monitor displays a ""no signal"" error.",monitor,3
+"my monitor keeps displaying a ""no signal"" error, even when the computer is switched on and running.",monitor,3
+"my monitor is displaying a ""no signal"" error when i try to turn it on.",monitor,3
+example problem: i have a flickering issue with my monitor. the screen begins to flicker and then eventually turns off.,monitor,3
+"i keep getting a ""no signal"" error on my monitor when i turn it on.",monitor,3
+my monitor's display is flickering and i can't seem to fix it.,monitor,3
+" messagemy computer's monitor displays a ""no signal detected"" error message when i turn it on.",monitor,3
+"my monitor keeps displaying an ""out of range"" error and won't let me see my computer desktop.",monitor,3
+"my computer monitor is displaying a ""no signal"" error whenever i try to turn it on.",monitor,3
+"my computer monitor is displaying a black screen with the error message ""no signal detected.""",monitor,3
+my computer monitor's screen has gone black even though the power is on.,monitor,3
+"my computer monitor displays an ""out of range"" error message and will not display any images.",monitor,3
+"my computer's monitor is displaying an error message saying ""no signal"".",monitor,3
+"my monitor is displaying a ""no signal"" error every time i turn it on.",monitor,3
+"my computer monitor is displaying a ""no signal detected"" error when i power it on.",monitor,3
+"my computer's monitor is displaying a 'no signal' error, and i can't get it to work.",monitor,3
+"my computer's monitor is displaying a ""no signal"" error on its screen.",monitor,3
+"my computer's monitor is displaying the message ""no signal detected"".",monitor,3
+"my monitor keeps displaying a ""no signal"" error message every time i try to turn it on.",monitor,3
+"my monitor is displaying a ""no signal"" error and i can't get my computer to display anything on my screen.",monitor,3
+"my monitor suddenly displays the ""no signal"" error and i'm unable to use it to access my computer.",monitor,3
+"my monitor keeps displaying an error message saying ""input not supported"" when i turn it on.",monitor,3
+"i have a problem with my monitor displaying a ""no signal"" error whenever i try to turn it on.",monitor,3
+my monitor displays a black screen and shows a 'no signal' error message when i turn on my computer.,monitor,3
+"the monitor on my computer won't turn on and displays a ""no signal"" error.",monitor,3
+"my monitor turns on, but displays a black screen with a 'no signal' error message.",monitor,3
+"my computer monitor won't turn on and i am getting a ""no signal"" error message.",monitor,3
+"my computer's monitor displays a ""no signal"" error whenever i try to turn it on.",monitor,3
+my computer's monitor screen keeps flickering and going black.,monitor,3
+"my monitor randomly turns off and on every few minutes and displays a black screen with an error message saying ""input signal out of range"".",monitor,3
+"my monitor is displaying an error message that reads ""no signal detected"".",monitor,3
+" 54example problem: my computer's monitor is displaying error 54, and i can't get the screen to display anything.",monitor,3
+"i am getting a 'no signal' error on my computer monitor, and it won't display anything.",monitor,3
+"example problem: my monitor displays a ""no signal"" error after i turn on my computer.",monitor,3
+".a monitor error can manifest in many different ways, such as the monitor not displaying a picture, the picture not being centered, flickering, or distorted lines. it can also be caused by a variety of issues, such as a loose connector, faulty cables, or a malfunctioning monitor.",monitor,3
+my computer's monitor displays an 'out of range' error when i try to turn it on.,monitor,3
+"my monitor keeps displaying an error message that reads, ""no signal detected.""",monitor,3
+my computer's monitor is displaying a black screen and i can't use it to view anything.,monitor,3
+"my computer's monitor is displaying a ""no signal"" error and i am unable to access my machine.",monitor,3
+"my computer's monitor is displaying an error message saying ""input not supported"".",monitor,3
+i am getting a 'no input signal' error on my monitor.,monitor,3
+"my monitor is displaying a no signal error message. i have tried plugging the monitor into a different power outlet, but it still isn't working.",monitor,3
+my monitor displays a black screen with 'no signal' error message when i try to turn it on.,monitor,3
+"i am receiving a ""no signal input"" error message on my monitor, which won't let me view my computer screen.",monitor,3
+"my computer monitor is displaying a ""no signal"" error and i can't seem to figure out why.",monitor,3
+example problem: my monitor is displaying multiple horizontal lines across the screen and making it difficult to read the images.,monitor,3
+"my monitor is displaying an ""out of range"" error message when i try to turn it on.",monitor,3
+"my computer's monitor is displaying an error message that says ""display driver stopped working and has recovered.""",monitor,3
+my monitor is displaying a 'no signal' error message and will not display anything.,monitor,3
+my monitor displays a 'no signal' error message when i try to turn it on.,monitor,3
+"my computer screen has gone blank and i am getting an error message that says ""no signal"".",monitor,3
+"my computer's monitor displays a ""no signal"" error, and i can't seem to figure out what the issue is.",monitor,3
+" messagesexample problem: my monitor is displaying an error message that says ""no signal detected"" when i try to turn it on.",monitor,3
+"my monitor is displaying a ""no signal"" error message when i turn on my computer.",monitor,3
+my monitor has been displaying a 'no signal' error and i am unable to get it to turn on.,monitor,3
+example of a problem related to monitor error: my computer screen is displaying horizontal lines across it and nothing else.,monitor,3
+my monitor keeps displaying the 'no signal' error message even when the computer is turned on.,monitor,3
+"my computer's monitor keeps displaying the ""no signal"" error message, even after i have restarted the computer multiple times.",monitor,3
+my computer monitor is displaying a fuzzy image and strange colors.,monitor,3
+my monitor is displaying various lines of static and isn't displaying any images.,monitor,3
+"my computer monitor is randomly displaying a ""no signal"" error message and i can't seem to locate the issue.",monitor,3
+my computer monitor displays a 'no signal' error message when i try to turn it on.,monitor,3
+my computer monitor is displaying a 'no signal' error message whenever i turn it on.,monitor,3
+my monitor keeps displaying an 'out of range' error message every time i try to turn it on.,monitor,3
+my monitor displays an 'out of range' error and i can't see anything on the screen.,monitor,3
+"my monitor displays a ""no signal"" error when i turn it on.",monitor,3
+"my monitor is displaying a ""no signal"" error even though my computer is turned on.",monitor,3
+my monitor is displaying the error message 'no input signal' when i turn it on.,monitor,3
+"my computer monitor displays a ""no signal"" error when i turn it on.",monitor,3
+the image on my monitor is distorted and won't stay in focus.,monitor,3
+"my monitor is displaying a ""no signal"" error message.",monitor,3
+"my monitor displays the ""no signal"" error message even though my computer is powered on.",monitor,3
+"my monitor is displaying a ""no signal"" error and i am unable to get the display to come on.",monitor,3
+"i am receiving an error message on my monitor that says ""no signal detected.""",monitor,3
+"my computer's monitor is displaying a ""no signal"" error, despite being properly connected.",monitor,3
+my computer monitor is displaying an 'out of range' error when i turn it on.,monitor,3
+"i am getting an on-screen error message on my monitor saying ""no signal detected"" whenever i try to turn it on.",monitor,3
+my computer monitor is displaying a 'no signal' error message when i try and turn it on.,monitor,3
+my monitor will not display an image and i hear a continuous beeping sound.,monitor,3
+"my monitor is displaying an ""input not supported"" error message and i can't adjust the resolution.",monitor,3
+"my computer's monitor is not displaying any images, even when i turn it on.",monitor,3
+"my computer's monitor displays an error message when i turn it on, saying ""no signal detected.""",monitor,3
+"my computer has been running noticeably slower than usual lately, and i am not sure what is causing the issue.",computer,4
+"i have been experiencing decreased performance on my computer in the last few months. my computer takes a long time to open applications and processes take longer to complete than before. i have checked the amount of memory i am using, but it does not appear to be the problem.",computer,4
+example problem: my computer is running very slow and i am having trouble using it efficiently.,computer,4
+"my computer is running slowly, and is taking a long time to open programs or perform basic tasks.",computer,4
+i have an older laptop that takes forever to open applications. even basic tasks like opening the internet browser or a word processor can take multiple minutes. i need to find a solution to make my laptop run faster.,computer,4
+"i am having difficulty with my computer running slow. applications take longer to open than usual, my internet is loading slower than before, and my computer frequently freezes.",computer,4
+my computer has been running very slowly for the past few weeks and i can't seem to figure out why.,computer,4
+my computer is running slower than usual and is taking a long time to open applications and websites.,computer,4
+"my computer is running extremely slowly, taking minutes to open new windows or programs, and i am unable to do basic tasks quickly.",computer,4
+"example problem: my computer is running incredibly slow and sometimes freezes up when i try to open certain programs or webpages. i have tried restarting my computer and clearing up extra storage, but nothing seems to help.",computer,4
+"my computer has been working very slowly lately, taking anywhere from 10-20 minutes to open up applications or access the internet.",computer,4
+my computer is running slow and it takes a long time to open applications or web pages.,computer,4
+"i'm having difficulty with my computer running slowly. it takes a long time to open and close programs, as well as access the internet.",computer,4
+my computer is running noticeably slower than it used to and it's taking me forever to open and close applications.,computer,4
+my computer is running extremely slow and i am unable to open certain applications or programs.,computer,4
+"my computer is running very slowly and it takes a very long time to open, close and switch between applications.",computer,4
+my computer is running too slowly and is taking a long time to open programs and load websites.,computer,4
+"my computer's speed and performance have been decreasing over time, and it now takes longer than usual to open programs and/or files.",computer,4
+"i have been noticing that my computer has been running much slower than usual. it takes a long time for webpages to load and document files take minutes to open. i have cleared up some memory and disk space, but the problem persists.",computer,4
+"my computer has been running slowly lately, taking much longer than usual to open programs, files, and websites.",computer,4
+"my computer is running slowly and taking a long time to launch applications, open files, and respond to my input.",computer,4
+"my computer is running very slowly and i am unable to complete tasks in a timely manner. i have tried increasing my ram and deleting unnecessary files, but the problem persists.",computer,4
+"my computer has been running slowly for the past few days, taking a long time to open programs, freezing, and having frequent crashes.",computer,4
+my computer often freezes and takes a long time to open programs.,computer,4
+"my computer is running slow and takes forever to open applications, load webpages, and shut down.",computer,4
+"my computer is running very slowly, taking several minutes to open applications and load websites.",computer,4
+"my computer is running slowly, and it takes a lot of time to open applications and process data. i've tried rebooting, clearing the disk space, and running a virus scan, but nothing seems to be improving the speed.",computer,4
+"my computer is running slower than usual, and it often takes longer than usual to open files and programs.",computer,4
+my computer is running extremely slow and i can't seem to do anything on it without it taking forever.,computer,4
+"my computer is running slow and i have noticed a decrease in its performance. it takes a long time for programs to load, my files take a long time to open, and i am noticing frequent lags and freezes.",computer,4
+"my computer is running very slowly and i can't seem to figure out why. i've defragmented the hard drive and run virus scans, but it still seems sluggish.",computer,4
+i am having difficulty completing tasks on my computer as it is very slow and often freezes when i open multiple applications at once.,computer,4
+my computer is running extremely slow and i can't open multiple programs at the same time.,computer,4
+"i have noticed that my computer has been running slower than usual lately, often taking several minutes to open programs and load webpages.",computer,4
+my computer often takes an unusually long time to boot up and open applications.,computer,4
+"my computer has become noticeably slower over the past few weeks. it takes a long time to open programs, launch internet pages, and download files.",computer,4
+"my computer takes a long time to load files and programs, and it takes forever to open new tabs and windows.",computer,4
+my computer is running slow and i can't open programs quickly.,computer,4
+"my computer takes a long time to boot up and load programs, making it difficult to work efficiently.",computer,4
+"my computer is running extremely slow, and i'm unable to do anything efficiently.",computer,4
+my computer takes a long time to open applications and sometimes freezes when i'm trying to do multiple tasks.,computer,4
+"my computer is running extremely slow, and i am having trouble opening applications and performing simple tasks.",computer,4
+"my computer has been running noticeably slower for the past few days, and i can't figure out the cause. i've tried restarting it and running a virus scan, but i'm still having the same problem.",computer,4
+"my computer is running very slowly, even when i'm just using basic programs such as a web browser. it takes a long time to load web pages, and even then they take a while to be functional.",computer,4
+"my computer has become unbearably slow over the past few weeks, and i am having trouble running programs and opening webpages.",computer,4
+example problem: my computer is running very slowly and i am having trouble running programs as it takes a long time for them to open.,computer,4
+my computer has been running noticeably slower than it used to and it takes a long time for programs to open up.,computer,4
+"my computer is running very slowly, even when i'm only running a few programs at once.",computer,4
+i have a problem with my computer running slowly. it takes a long time to open programs and load websites which makes it difficult to work efficiently.,computer,4
+i am having problems with my computer running slowly; programs take a long time to open and my internet connection is extremely slow.,computer,4
+"my computer keeps freezing, and it takes several minutes for programs and webpages to load.",computer,4
+my computer is running slowly; the applications take much longer to launch than usual and my online searches are not loading quickly.,computer,4
+i have been noticing that my computer has been running slower than normal lately and taking a long time to open files and applications.,computer,4
+"my computer has been running slowly, taking a long time to load applications and webpages.",computer,4
+my computer is running slowly and takes a long time to respond to my commands.,computer,4
+i am running out of disk space on my computer and it is running slower than usual.,computer,4
+"my computer is running slower than usual, and it takes a long time for programs to open and for webpages to load.",computer,4
+"my computer has been running slow lately, even when i'm just using one program. it takes a long time to open new applications and i often get a spinning wheel when opening multiple tabs.",computer,4
+"my computer seems to be running very slowly lately. it takes what seems like an eternity for programs to open, and my computer will often freeze and crash unexpectedly.",computer,4
+problem: my computer is running extremely slow and is not responding quickly to any inputs.,computer,4
+"my computer is running extremely slow and i'm often unable to open applications or files quickly, or my computer will freeze up and become unresponsive.",computer,4
+my computer's performance has been getting slower day by day and it's taking longer to launch programs and open webpages.,computer,4
+"my laptop has been running slower and slower over the last few months, making it difficult to get tasks done in a timely manner.",computer,4
+"my computer is running very slowly and i don't know why. it takes a long time to open programs and files, and webpages take several minutes to fully load. i would like to find a solution to this problem.",computer,4
+my computer is running slower than normal and is taking too long to boot up.,computer,4
+"my computer is running very slowly, even when i'm only running basic tasks like surfing the web or checking email.",computer,4
+my computer is running extremely slow and takes a long time to open applications and webpages.,computer,4
+"my computer runs slowly and often freezes, making it difficult for me to complete my tasks in a timely manner.",computer,4
+my computer is running slow and i don't know why. it takes a long time to open programs and the internet runs slowly.,computer,4
+my computer is running slow and the programs take forever to open.,computer,4
+my computer is running slow and i cannot open multiple programs at the same time.,computer,4
+my computer takes an unusually long time to open programs or access files.,computer,4
+my computer is running slow and is taking a long time to open programs and load websites.,computer,4
+i'm running out of space on my computer and it's slowing down the performance.,computer,4
+my computer is running slow even though i have plenty of available hard drive space.,computer,4
+"whenever i try to open any program or do an internet search on my computer, it takes a long time to process the request.",computer,4
+"i'm having trouble with my computer running slow. it takes a while to open up new programs, and even longer to load large files. i also have trouble multitasking and my computer often freezes.",computer,4
+"my laptop has been running slower and slower over the past few months. programs take longer to load, my computer freezes randomly, and it takes longer to switch between documents.",computer,4
+my computer is running extremely slow and frequently crashes when i open multiple programs.,computer,4
+"example:my computer is running slow and taking a long time to load webpages, programs, and applications.",computer,4
+i am having trouble with my computer running slowly. it takes several minutes to open a program and even longer for some web pages to load.,computer,4
+"my computer is running slower and slower, and it takes longer for programs to load than usual.",computer,4
+my computer takes too long to boot up and runs slowly when i open programs or browse the internet.,computer,4
+my computer has been running slow lately and it is taking longer to complete tasks that usually take only a few minutes.,computer,4
+"my computer has been running slowly for the past few days, with applications taking longer than usual to open and programs freezing unexpectedly.",computer,4
+my computer is running significantly slower than usual and i am having trouble performing basic tasks such as opening applications or browsing the internet.,computer,4
+my computer is running very slowly and it takes a long time for programs to start up or run.,computer,4
+my computer is running extremely slowly and i'm having trouble performing tasks that would normally take a few minutes to complete.,computer,4
+"my computer has been running incredibly slow lately, and i'm having trouble running programs and opening websites.",computer,4
+my computer is running slow and i can't seem to open any applications quickly.,computer,4
+"my computer has been running slow for the past few weeks. it takes an unusually long time for programs to open, websites to load, and for tasks such as video streaming to complete. i am looking for a solution to help me speed up my computer.",computer,4
+my computer is running extremely slow. applications and webpages take forever to open and my computer often stalls while i am using it.,computer,4
+"my computer is running very slowly, especially when i try to open applications or access websites. it takes a long time for these processes to complete and this is making it difficult to complete my work.",computer,4
+my computer has been running slower and slower over the past few weeks and i'm not sure what could be causing the issue.,computer,4
+"my computer has been running very slowly lately, and i can't run even basic programs without experiencing lag.",computer,4
+my computer is slow when i open multiple programs and applications.,computer,4
+my computer freezes and takes ages to open applications or websites.,computer,4
+"my computer is constantly running slowly, even when i only have one program open. it takes forever to open programs and the internet runs at a snail's pace.",computer,4
+"my computer has been running slower than usual, and it takes a long time for programs and websites to open.",computer,4
+"example of problem: my computer has been running slowly for the past few weeks and i'm not sure why. programs take longer to load, my internet connection is often slow, and my overall performance has declined.",computer,4
+"i keep getting an error that says ""keyboard not found. press f1 to continue."" whenever i try to type something on my computer.",keyboard,5
+"the keys on my keyboard are not working correctly, some of them are jammed and others are not registering when i press them.",keyboard,5
+my keyboard is not working correctly and is displaying random letters and numbers when i type.,keyboard,5
+my keyboard is not responding or showing any input when i type on it.,keyboard,5
+"the keys on my keyboard are not functioning properly and i keep getting ""keyboard error"" messages on my computer.",keyboard,5
+the keys on my keyboard are not working correctly - some keys are typing the wrong characters or not working at all.,keyboard,5
+i keep getting an error message that my keyboard is not working properly. i am having trouble typing and some of the keys are not responding.,keyboard,5
+my laptop's keyboard is malfunctioning and keys aren't working properly when i press them.,keyboard,5
+my laptop keyboard is not working properly. some of the keys are sticking and some are not responding when i press them.,keyboard,5
+"my laptop keyboard is no longer responding properly. some of the letters aren't being typed correctly when i press them, and some of the keys don't appear to be working at all.",keyboard,5
+keys on my keyboard are typing the wrong letters or numbers when i press them.,keyboard,5
+my computer's keyboard is typing multiple letters when i press a single key.,keyboard,5
+my laptop keyboard is not functioning correctly; some of the keys don't work or type the wrong characters.,keyboard,5
+my keyboard is not working properly and occasionally displays wrong characters when i type.,keyboard,5
+"my laptop's keyboard is no longer functioning correctly. some keys do not work, and when i press certain keys, it produces an error message.",keyboard,5
+"my computer's keyboard is not functioning properly, with some of the keys not typing or not typing correctly when pressed.",keyboard,5
+my laptop keyboard is randomly typing the wrong letters when i type.,keyboard,5
+"example problem: my computer keyboard is not functioning properly. some of the keys are not responding when pressed, while others are typing random characters or letters.",keyboard,5
+"when i try to type, some of the keys on my keyboard do not respond.",keyboard,5
+my laptop keyboard is typing the wrong letters when i press the keys.,keyboard,5
+my computer keyboard seems to be stuck and the keys are not responding properly when i try to type.,keyboard,5
+"i'm unable to type certain keys on my keyboard, even though i know the keys are functioning correctly.",keyboard,5
+my laptop keyboard is not typing correctly; several keys are either not working or producing the wrong output.,keyboard,5
+my keyboard is typing the wrong letters when i press the keys.,keyboard,5
+"my laptop keyboard will not register certain keys that i press. some keys don't type any characters, while others will type the wrong characters.",keyboard,5
+i am having trouble typing on my laptop's keyboard because some of the keys are sticking or not registering when i press them.,keyboard,5
+"whenever i type a letter, the wrong one appears on the screen.",keyboard,5
+"my laptop's keyboard is not working correctly. when i type a letter, two or more of the same letter appear instead.",keyboard,5
+"example problem: my keyboard seems to be sending incorrect keys when i type. sometimes i'll press a letter key, and a number will appear on the screen instead.",keyboard,5
+"my laptop keyboard has stopped working, and i get an error message when i try to type.",keyboard,5
+"my laptop's keyboard has some keys that aren't working properly. the ""q"" and ""w"" keys don't always register when i press them, and the ""e"" key sometimes types an extra ""e"" when i press it.",keyboard,5
+".my laptop keyboard is typing wrong characters when i press certain keys, even when i hit the correct keys.",keyboard,5
+my laptop keyboard is typing numbers and symbols instead of letters when i press certain keys.,keyboard,5
+my laptop keyboard keeps typing wrong letters when i press certain keys.,keyboard,5
+my keyboard keeps typing the wrong characters when i press certain keys.,keyboard,5
+my laptop keyboard is not typing the correct letters when i press certain keys.,keyboard,5
+my laptop keyboard is displaying incorrect characters when i press certain keys.,keyboard,5
+my laptop's keyboard is having random errors such as not registering keystrokes or having duplicate characters when typing.,keyboard,5
+"my laptop keyboard stopped working, and i am now unable to type. i have tried rebooting the laptop and connecting an external keyboard, but neither have fixed the issue.",keyboard,5
+"my keyboard keeps producing random characters when i type, even though i have replaced the batteries.",keyboard,5
+example problem: my laptop keyboard is not working and displays error messages when i type.,keyboard,5
+my laptop keyboard isn't working correctly. some of the keys are not registering when i press them and others are completely unresponsive.,keyboard,5
+my keyboard is typing the wrong characters when i press certain keys.,keyboard,5
+"my laptop keyboard isn't working properly. some of the keys don't respond, and others type out the wrong character when i press them.",keyboard,5
+"my laptop keyboard is not working properly. whenever i press the keys, they don't register, or random keys get stuck.",keyboard,5
+"my laptop keyboard suddenly stopped working and there is an error message that states ""keyboard not detected.""",keyboard,5
+my laptop keyboard is typing wrong characters when i type certain keys.,keyboard,5
+"problem: my computer's keyboard is not functioning correctly. certain keys are not responding when pressed, and some are inputting the wrong letter. ",keyboard,5
+my laptop's keyboard is not working properly - some of the keys are stuck and other keys do not respond when i press them.,keyboard,5
+"my keyboard keeps showing an ""error"" message when i press any keys.",keyboard,5
+my laptop's keyboard is sporadically typing extra letters and deleting letters when i type.,keyboard,5
+the keys on my keyboard are sticking and not working properly.,keyboard,5
+"my keyboard keeps randomly typing the same letter multiple times when i press a key, even when i press different keys.",keyboard,5
+my laptop keyboard keeps displaying the wrong characters when i type.,keyboard,5
+my keyboard is not typing correctly - some of the keys are not registering and some are registering multiple characters when pressed.,keyboard,5
+my keyboard is not responding to any of the keys i press. the keys either don't register or register multiple times.,keyboard,5
+my laptop keyboard is typing extra characters when i press certain keys.,keyboard,5
+"my laptop's keyboard isn't working properly, causing some of the characters i type to be incorrect or unrecognizable.",keyboard,5
+"my laptop's keyboard is not functioning correctly. some of the keys are not working, and others are producing unexpected results when pressed.",keyboard,5
+"my keyboard isn't responding correctly when i type. some of the keys don't work, and some of the keys produce different letters than what i'm typing.",keyboard,5
+"my laptop's keyboard is refusing to type certain characters, and the number keys are all stuck.",keyboard,5
+my laptop keyboard isn't working properly; some of the keys don't type the correct letters when pressed.,keyboard,5
+my computer's keyboard isn't typing correctly and i'm getting a lot of random characters instead of the ones i am pressing.,keyboard,5
+my laptop keyboard is no longer typing the correct characters when i press the keys.,keyboard,5
+my laptop keyboard is malfunctioning and i am unable to type properly.,keyboard,5
+my laptop's keyboard is no longer responding to my keystrokes.,keyboard,5
+my laptop's keyboard is not working properly - some of the keys don't register or register multiple times when pressed.,keyboard,5
+"my keyboard is not registering all of the keystrokes i'm entering, causing my typing speed to be slower than usual.",keyboard,5
+my laptop's keyboard is not working properly. some of the keys are not responding or typing wrong characters when i press them.,keyboard,5
+my laptop keyboard is displaying some strange symbols that i do not recognize.,keyboard,5
+my laptop keyboard is not responding properly. certain keys do not work or do not register when pressed.,keyboard,5
+my keyboard isn't working properly; some of the keys don't seem to register when i press them.,keyboard,5
+"the 'a' key on my keyboard keeps sticking when i press it, making it difficult to type.",keyboard,5
+"my keyboard keeps randomly pressing keys on its own, which makes it difficult to type.",keyboard,5
+"my laptop's keyboard is not functioning correctly, resulting in random keys not working or being delayed when typing.",keyboard,5
+my laptop's keyboard is displaying the wrong characters when i press certain keys.,keyboard,5
+my laptop's keyboard is not functioning properly. the keys sometimes do not register when i press them or they may be delayed in typing.,keyboard,5
+my keyboard stops responding when i press certain keys and i can't type anything.,keyboard,5
+my laptop keyboard keys are not functioning properly; some of them are not working at all and others give the wrong input.,keyboard,5
+"i am unable to type certain letters and numbers on my keyboard, and when i try to type those letters and numbers, i get an error message from my computer.",keyboard,5
+my laptop's keyboard is not functioning properly. certain keys do not work and some produce the wrong character when pressed.,keyboard,5
+"my keyboard is not functioning properly and keeps displaying error messages such as ""keyboard not found"" or ""error: keyboard not responding"".",keyboard,5
+my laptop's keyboard is typing the wrong keys when i press them.,keyboard,5
+my computer's keyboard has stopped working; i'm unable to type anything and the keyboard appears to be completely unresponsive.,keyboard,5
+my keyboard is typing the wrong characters when i press certain keys.,keyboard,5
+my laptop keyboard is malfunctioning and i cannot type correctly. certain keys produce the wrong characters and other keys do not work at all.,keyboard,5
+my laptop keyboard is randomly typing incorrect letters when i type.,keyboard,5
+"recently my computer keyboard has been malfunctioning, with some of the keys randomly not working or typing incorrect characters.",keyboard,5
+"my laptop keyboard suddenly stopped working, and none of the keys are responding.",keyboard,5
+my laptop keyboard is malfunctioning and not typing correctly. some of the keys don't work and other keys produce the wrong character when i press them.,keyboard,5
+example problem: my laptop keyboard is not working properly and is responding slowly when i type or press any keys.,keyboard,5
+"my laptop's keyboard is not working properly. the keys do not respond consistently when i type, and some keys seem to be stuck.",keyboard,5
+"my laptop's keyboard is not working correctly. some keys are not responding when typed, and some are responding incorrectly.",keyboard,5
+my laptop's keyboard is not working. some keys do not respond when i press them and other keys seem to activate more than one letter.,keyboard,5
+my keyboard is not displaying the correct characters when i type.,keyboard,5
+the keys on my keyboard are sticking and not registering when i type.,keyboard,5
+one of the keys on my keyboard is stuck and i can't type correctly.,keyboard,5
+my laptop keyboard is giving me the wrong letters when i press specific keys.,keyboard,5
+"my laptop keyboard is not working correctly, some of the keys are not typing the correct characters or not responding at all.",keyboard,5
+"i am unable to type anything on my computer's keyboard, as the keys are not responding when i press them.",keyboard,5
+my mouse keeps randomly freezing and won't move when i try to use it.,mouse,6
+"my mouse cursor isn't responding correctly and i'm receiving an error message that says ""mouse error: cannot communicate with the device"".",mouse,6
+my mouse cursor keeps freezing and won't move when i try to use it.,mouse,6
+"my mouse cursor isn't responding properly when i move it around the screen, and sometimes it even moves on its own.",mouse,6
+my mouse is not responding properly and it often freezes when attempting to move it.,mouse,6
+my mouse keeps freezing and unresponsive when i try to use it.,mouse,6
+"my mouse is not working correctly. when i try to click on something, it doesn't respond or it will only click sometimes.",mouse,6
+my mouse is not functioning properly and i receive an error message when i try to use it.,mouse,6
+"my mouse cursor freezes every time i try to click on an icon or menu, making it impossible for me to use my computer.",mouse,6
+"my mouse keeps showing an error in the device manager, saying ""usb device not recognized"".",mouse,6
+my mouse cursor keeps freezing and i'm unable to click on anything.,mouse,6
+"my mouse is not functioning properly, i can move the cursor on the screen, but clicks do not register.",mouse,6
+"my mouse keeps freezing and making my computer slow. i have tried restarting the computer, changing the mouse, and updating the drivers, but nothing has worked.",mouse,6
+my mouse cursor is constantly freezing and i cannot move it around my screen.,mouse,6
+my mouse cursor is not working properly - it moves very slowly and often gets stuck.,mouse,6
+my mouse is not working properly. it's not responding to my clicks and sometimes the cursor moves on its own.,mouse,6
+"my mouse cursor is not moving and i'm receiving an error message saying ""device not recognized.""",mouse,6
+"my mouse is acting erratically and freezes intermittently, preventing me from using my computer properly.",mouse,6
+my mouse is not working properly. the cursor is randomly jumping around the screen and i can't click on anything.,mouse,6
+"my computer's mouse isn't responding properly. when i move the mouse, the cursor does not follow along as it should.",mouse,6
+"my mouse is not registering any clicks or movements on the screen, even though i can see the cursor moving across the screen.",mouse,6
+"my mouse is not working properly. when i move the mouse, the cursor on the screen doesn't move in sync and often lags behind.",mouse,6
+my mouse cursor will not move or respond when i use the mouse.,mouse,6
+"my mouse is not working properly. the cursor moves randomly, i cannot click on anything, and the wheel does not scroll.",mouse,6
+"my mouse is not working properly. i can move the pointer around my computer screen, but it won't click on anything.",mouse,6
+my mouse cursor is moving on its own and randomly clicking on icons and options.,mouse,6
+my computer mouse isn't working properly - it isn't responding to clicks and sometimes lags when i move it.,mouse,6
+"my mouse is malfunctioning, causing cursor movements to be jumpy or unresponsive.",mouse,6
+"my mouse is not working correctly, as it sometimes skips across the screen or fails to move altogether.",mouse,6
+my mouse is not responding when i try to move it or click on anything.,mouse,6
+"my computer mouse is not working properly. the cursor moves when i move the mouse, but the clicks don't register.",mouse,6
+"my mouse keeps freezing up and disconnecting from my computer, and i can't seem to figure out why.",mouse,6
+"i am having difficulty using my mouse, as it is registering clicks inaccurately and the cursor is jumping around sporadically instead of moving smoothly.",mouse,6
+my mouse cursor keeps freezing and won't respond to my commands.,mouse,6
+my mouse is showing an error when i try to move it. the cursor shows an error message and won't move.,mouse,6
+my mouse keeps freezing and disconnecting intermittently.,mouse,6
+"my mouse is not responding when i move it. the cursor doesn't move and no matter how many times i click the buttons, nothing happens.",mouse,6
+my mouse cursor is constantly jumping around on the screen and will not stay in the same place.,mouse,6
+my mouse is not connecting to my computer and is displaying an error message.,mouse,6
+"my mouse cursor is not responding correctly, moving erratically and causing the computer to freeze.",mouse,6
+my mouse keeps losing connection and will not move correctly on my computer screen.,mouse,6
+my mouse cursor suddenly disappears and i'm unable to move it with my mouse.,mouse,6
+"my mouse has suddenly stopped working and i cannot click, scroll, or drag anything with it.",mouse,6
+my mouse is not responding correctly and i am getting an error message when i try to move the cursor.,mouse,6
+my mouse cursor keeps freezing and it's becoming increasingly difficult to use my computer.,mouse,6
+my computer mouse is not working properly. the cursor is moving erratically and sometimes jumps around the page. it seems like the mouse is stuck or unresponsive.,mouse,6
+my mouse is having trouble connecting to my laptop and does not work properly.,mouse,6
+"for example, my mouse is not working. i cannot move it around or click on anything. i have tried using different usb ports, restarting my computer, and using a different mouse, but none of these fixes have worked.",mouse,6
+my mouse is not working properly. the cursor is moving erratically and i'm unable to click on anything.,mouse,6
+i cannot move my mouse cursor on my computer's screen and it is displaying an error message.,mouse,6
+my mouse cursor is jumpy and unresponsive when i try to move it across my screen.,mouse,6
+example of mouse error problem: my cursor is not moving when i move my mouse.,mouse,6
+my mouse cursor is erratic and jumps all over the screen.,mouse,6
+"my mouse cursor is constantly flickering and jumping around the screen, making it very hard to use my computer.",mouse,6
+"my mouse is not working properly and i'm getting an error message that says ""failed to locate mouse driver.""",mouse,6
+example problem: my mouse is not working properly. it has suddenly stopped responding when i move it and will not click on anything.,mouse,6
+"i am getting an error message when i try to use my mouse, saying that windows cannot detect the mouse device.",mouse,6
+"i am having difficulty using my mouse, as it keeps lagging and intermittent click errors are occurring.",mouse,6
+my computer mouse is not working correctly. it keeps freezing or jumping around the screen.,mouse,6
+my mouse cursor is lagging and jumping around the screen when i try to use it.,mouse,6
+my mouse keeps jittering and making random movements when i try to use it.,mouse,6
+my computer mouse is not functioning properly and is generating errors when i try to click on icons or open applications.,mouse,6
+my mouse cursor keeps freezing and isn't responding to my clicks.,mouse,6
+my mouse is not responding properly and displaying error messages when i try to use it.,mouse,6
+"my mouse is not responding when i plug it in, and it's showing an 'error 43' message on my screen.",mouse,6
+my mouse is not working correctly; it moves too slowly or not at all.,mouse,6
+"my computer's mouse is no longer working properly, as the cursor jumps around the screen and will not stay in one spot.",mouse,6
+my mouse keeps randomly freezing and i can't seem to find the cause of the error.,mouse,6
+"my mouse is not connecting properly to my computer. i have tried restarting my computer and replugging the mouse, but it still does not work.",mouse,6
+my mouse cursor is not working properly and i'm getting an error code when i try to move it.,mouse,6
+my computer's mouse has begun to move erratically and randomly click on different parts of the screen.,mouse,6
+my mouse is not working correctly and i am getting an error message when i try to use it.,mouse,6
+my computer mouse keeps freezing and not responding when i try to click on something.,mouse,6
+"my mouse is not working, but the cursor is still moving on the screen.",mouse,6
+my mouse is not working properly and i am getting error messages when i try to use it.,mouse,6
+"my mouse is not working properly. when i move the mouse across the screen, the pointer lags or moves in jerky motions.",mouse,6
+"my mouse cursor is not moving, even after replacing the batteries in my wireless mouse.",mouse,6
+"my mouse is not working correctly. when i try to move it, the cursor jumps around the screen erratically.",mouse,6
+"my computer mouse is not working correctly. i have tried using different ports and changing the batteries, but the issue persists.",mouse,6
+my mouse is displaying a 'device error' message and will not move.,mouse,6
+my mouse has stopped working and i cannot seem to get it to respond when i move it. no cursor appears on my screen and the mouse buttons are unresponsive.,mouse,6
+my mouse cursor keeps freezing every few minutes and i have to manually reset it.,mouse,6
+my mouse has stopped working and i am unable to interact with the computer.,mouse,6
+my mouse keeps freezing and is not functioning properly.,mouse,6
+my mouse cursor is jumping around erratically and not responding accurately to my clicks.,mouse,6
+my mouse is not responding correctly when i move it around the screen. the cursor will move in unexpected directions and sometimes even freeze completely.,mouse,6
+example problem: my mouse cursor is randomly jumping around the screen and the click button is not working.,mouse,6
+i can't move my mouse cursor and it keeps lagging randomly.,mouse,6
+"my mouse cursor suddenly stops moving, even when i move the mouse a lot.",mouse,6
+"whenever i try to move my mouse cursor, it jumps erratically and won't obey my commands.",mouse,6
+example problem: my mouse keeps disconnecting from my computer and i can't figure out how to get it to stay connected.,mouse,6
+my mouse cursor is lagging or jumping around the screen.,mouse,6
+"my computer mouse randomly stops working and i receive an error message saying ""mouse device not detected"".",mouse,6
+"my mouse cursor suddenly stopped moving, and i'm getting an error message saying ""unrecognized usb device.""",mouse,6
+my mouse is lagging and not responding properly to my input.,mouse,6
+my mouse isn't working properly and the cursor is jumping around erratically on the screen.,mouse,6
+my mouse cursor moves erratically and keeps jumpy when i try to move it.,mouse,6
+"my mouse keeps freezing or disconnecting sporadically, even when i'm not using it.",mouse,6
+my mouse cursor is not responding and the mouse does not move when i try to use it.,mouse,6
+my computer's mouse cursor is not responding correctly to my movements. it is jerky and jumps around the screen randomly.,mouse,6
+" messagemy internet connection keeps dropping and i'm getting an error message that says ""unable to connect to the internet.""",wifi,2
+my internet connection keeps dropping and i get a 'no internet' error every time i try to access a web page.,wifi,2
+"my internet connection is constantly dropping and reconnecting every few minutes, even though my signal strength is strong.",wifi,2
+"i am unable to connect my laptop to the internet. my browser says ""unable to connect"" when i try to access any website.",wifi,2
+my internet connection drops intermittently and i cannot access certain websites.,wifi,2
+my internet connection is not working and i am getting an error message stating 'no internet connection'.,wifi,2
+"my internet connection keeps dropping or running slowly. i've done all the basic troubleshooting steps, such as restarting my modem and router, but the problem persists.",wifi,2
+"i am unable to connect to the internet, and my router displays an error message that says 'connection failed.'",wifi,2
+i'm trying to access a website but keep receiving an error message that says my internet connection is not working.,wifi,2
+"i'm trying to access a website, but my internet connection isn't working and i'm receiving an error message.",wifi,2
+i am unable to connect to the internet. i am getting an error message that says 'connection failed'.,wifi,2
+ messagesmy internet connection is dropping every few minutes and displaying an error message saying 'connection error: connection to the network was lost.',wifi,2
+"i'm trying to connect to the internet but i'm getting an error message saying ""connection timed out"".",wifi,2
+"i get an error message when i try to access the internet on my laptop, saying ""no internet connection.""",wifi,2
+"i'm getting an error message when i try to connect to the internet that says ""connection failed.""",wifi,2
+"i'm unable to connect to the internet and i'm getting an error message that says ""connection timed out"".",wifi,2
+"i am unable to connect to the internet. whenever i try to connect, i get an error message saying ""no internet connection.""",wifi,2
+"my internet connection keeps cutting out, even though i'm connected to the wi-fi network.",wifi,2
+"i recently restarted my router, but my internet connection is still not working. i'm seeing a 'connection error' message when i try to open a website.",wifi,2
+my internet connection suddenly stopped working and i'm receiving an error message about a dns server not responding.,wifi,2
+"my internet connection keeps dropping and i keep getting an error message that says ""connection timed out"".",wifi,2
+"i am unable to connect to the internet despite following all the troubleshooting steps provided. the error message i am getting is ""unable to connect to the internet"".",wifi,2
+"i am having difficulty connecting to the internet. i've checked all my cables and my router, and everything looks good, but i keep getting an error message when i try to connect.",wifi,2
+"example problem: i keep getting an ""error 651"" message when i try to connect to my home internet.",wifi,2
+"my internet connection is suddenly not working and i'm getting an error message on my computer saying, ""connection could not be established.""",wifi,2
+i am unable to connect to my wi-fi network and i'm getting an error message that says 'no internet connection'.,wifi,2
+"my internet connection is showing an error that says ""connection timed out."" i have tried resetting my modem and router, but the problem persists.",wifi,2
+my internet connection keeps dropping and i get an error message saying my connection has been lost.,wifi,2
+" 500i am trying to access a website but i get a '500 internal server error' message. i have tried restarting my modem and router, clearing my internet cache, and resetting the isp connection, but none of these solutions work. how can i fix this",wifi,2
+"i am unable to connect to the internet on my computer, error messaged stating 'no internet access' appear whenever i try to connect.",wifi,2
+"i cannot connect to my home wi-fi network. the modem says the internet is connected, but my laptop cannot detect the network and i keep getting an error message.",wifi,2
+"myinternet connection keeps dropping out and when i try to reconnect i get the error message ""connection failed, check your network settings"".",wifi,2
+"myinternet connection is not working and when i try to connect to the internet i get an error message saying ""connection timed out"".",wifi,2
+"i'm unable to connect to the internet and i'm getting an error message that reads ""unable to establish a connection.""",wifi,2
+"i'm getting an error message when i try to connect to the internet that says ""the dns server isn't responding.""",wifi,2
+my internet connection keeps dropping and i am unable to access websites or download files.,wifi,2
+"my wi-fi connection is not working. i've tried resetting my modem and router, but nothing seems to be working.",wifi,2
+" messagei'm getting an error message when i try to connect to my internet connection. it says ""connection failed - verify network settings.""",wifi,2
+"i am having an issue with my internet connection not working. my computer says it is connected to the network, but i cannot access the internet.",wifi,2
+i'm getting an error message that says my internet connection is not working.,wifi,2
+i'm having difficulty connecting to the internet. my device says there is an 'error 651' and it won't allow me to connect.,wifi,2
+my internet connection times out when i try to access a website.,wifi,2
+"i have a problem with my internet, it is very slow",wifi,2
+"i'm having trouble getting my internet connection to work. my computer is connected to the wifi, but i cannot access any webpages or applications. whenever i try, i get an error message saying that there is no connection.",wifi,2
+"i have a problem with my internet, i cant connect",wifi,2
+"my internet isn't working",wifi,2
+"myinternet  is very slow",wifi,2
+my internet connection is suddenly not working and i'm getting an error message saying my modem is disconnected from the network.,wifi,2
+"my internet connection doesn't work",wifi,2
+"my internet connection  is very slow",wifi,2
